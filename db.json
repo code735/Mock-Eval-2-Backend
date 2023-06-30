@@ -1,5 +1,8 @@
 {
-  "users": [],
+  "users": [{
+    "email":"prathmesh@gmail.com",
+    "password":"Test@123"
+  }],
   "transactions": [],
   "income": [],
   "expenses": []
